@@ -1,0 +1,53 @@
+*,
+*::before,
+*::after {
+  font-family: "Overpass", sans-serif;
+  font-size: var(--text-size);
+}
+
+body {
+  background-color: var(--very-dark-blue);
+  margin: 0;
+  padding-left: var(--mobile-body-side-padding);
+  padding-right: var(--mobile-body-side-padding);
+}
+
+p {
+  color: var(--light-grey);
+  font-weight: var(--base-weight);
+  line-height: var(--base-line-height);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--white);
+  font-weight: var(--bold-weight);
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+h5 {
+  font-size: 1.1rem;
+}
+
+h6 {
+  font-size: 1rem;
+}

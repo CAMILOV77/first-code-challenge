@@ -1,0 +1,15 @@
+.text-color-medium-grey {
+  color: var(--medium-grey);
+}
+
+.text-color-orange {
+  color: var(--orange);
+}
+
+.text-weight-400 {
+  font-weight: var(--base-weight);
+}
+
+.text-weight-700 {
+  font-weight: var(--bold-weight);
+}

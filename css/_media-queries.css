@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+  /* Put all of your tablet styles here */
+  body {
+    padding: 0;
+  }
+}
+/* Desktop Styles */
+
+@media (min-width: 1024px) {
+  /* Put all of your desktop styles here */
+}
