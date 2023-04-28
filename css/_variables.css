@@ -4,11 +4,11 @@
   --light-grey: hsl(217, 12%, 63%);
   --medium-grey: hsl(216, 12%, 54%);
   --dark-blue: hsla(213, 20%, 18%);
-  --color-1: rgb(57, 71, 85);
+  --color-1: hsla(213, 20%, 22%);
   --very-dark-blue: hsl(216, 12%, 8%);
   --base-weight: 400;
   --bold-weight: 700;
-  --text-size: 1.2rem;
+  --text-size: 1rem;
   --base-line-height: 1.5;
   --base-line-height: 1.5;
   --mobile-body-side-padding: 6%;

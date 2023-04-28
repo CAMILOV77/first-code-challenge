@@ -10,6 +10,9 @@ body {
   margin: 0;
   padding-left: var(--mobile-body-side-padding);
   padding-right: var(--mobile-body-side-padding);
+  height: 100vh;
+  display: grid;
+  place-content: center;
 }
 
 p {
@@ -50,4 +53,8 @@ h5 {
 
 h6 {
   font-size: 1rem;
+}
+
+button {
+  border: none;
 }
